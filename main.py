@@ -1,6 +1,5 @@
 import customtkinter as ctk #importando o CTk
 
-
 #Funçao para validar senha e email
 def validar_login():
   usuario = campo_usuario.get()
